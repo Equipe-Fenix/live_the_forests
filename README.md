@@ -46,7 +46,7 @@ Para que a denúncia seja válida (e não considerada golpe ou enganação) deve
 - Local
 - Data de acontecimento
 
-```OBS: o usuário que realiza a denúncia se torna autor e responsável por ela.```
+<strong>```OBS: o usuário que realiza a denúncia se torna autor e responsável por ela.```</strong>
 
 É permitido incluir links que ajudem a garantir a veracidade da mesma na descrição.
 
