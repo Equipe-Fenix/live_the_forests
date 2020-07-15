@@ -56,7 +56,7 @@ Para que a denúncia seja válida (e não considerada golpe ou enganação) deve
  - Possibilidade de upload de imagem
  - O valor a ser arrecadado
  - Botão com link para e-mail da ONG
- -Botão com link para Whatsapp da ONG 
+ - Botão com link para Whatsapp da ONG 
  
 
 
