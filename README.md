@@ -50,7 +50,7 @@ Para que a denúncia seja válida (e não considerada golpe ou enganação) deve
 
 É permitido incluir links que ajudem a garantir a veracidade da mesma na descrição.
 
-#### 2.1.4s Casos:
+#### 2.1.4 Casos:
  Se caracterizam como áreas de texto onde uma ONG pode inserir um pedido de doação para realizar determinado projeto. O caso terá os seguintes items:
  - Descrição
  - Possibilidade de upload de imagem
